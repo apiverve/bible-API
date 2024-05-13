@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/bible",
+  "version": "1.0.0",
+  "description": "Bible is a simple tool for getting bible verses. Simply provide the book, chapter, and verse, and the API will return the verse.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/bible-API.git"
+  },
+  "keywords": [
+    "bible"," bible verse"," bible api"," bible tool"," bible software"," bible service"," bible library"," bible sdk"," bible code"," bible script"," bible program"," bible application"," bible app"," bible utility"," bible helper"," bible helper tool"," bible helper software"," bible helper service"," bible helper library"," bible helper sdk"," bible helper code"," bible helper script"," bible helper program"," bible helper application"," bible helper app"," bible helper utility"," bible helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/bible-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/bible-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
