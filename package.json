@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/bible-API.git"
   },
   "keywords": [
-    "bible"," bible verse"," bible api"," bible tool"," bible software"," bible service"," bible library"," bible sdk"," bible code"," bible script"," bible program"," bible application"," bible app"," bible utility"," bible helper"," bible helper tool"," bible helper software"," bible helper service"," bible helper library"," bible helper sdk"," bible helper code"," bible helper script"," bible helper program"," bible helper application"," bible helper app"," bible helper utility"," bible helper"
+    "bible","bible verse","bible api","bible tool","bible software"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
